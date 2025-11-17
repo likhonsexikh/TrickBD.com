@@ -2,11 +2,7 @@
 
 # TrickBD.com
 
-*Know for sharing | Bangladeshi first mobile based tech forum and community.*
-
----
-
-## About TrickBD.com
+Trickbd.com - Know for sharing | Bangladeshi first mobile based tech forum and community.
 
 Trickbd is a brand that provides a wide range of products and services for tech enthusiasts and learners. They offer informative articles, tutorials, and reviews on various topics such as Android games, custom ROMs, phone reviews, programming languages, and technology updates. One of the key features of Trickbd is its focus on Linux and its package managers.
 
@@ -14,24 +10,9 @@ They provide comprehensive insights into package management in Linux, specifical
 
 They aim to empower users with the knowledge and skills needed to navigate the world of technology effectively.
 
----
+#### Table of Contents
 
-## Brand Identity
-
-### Brand Colors
-
-| Color       | Hex       | RGB             | HSL            | CMYK              |
-|-------------|-----------|-----------------|----------------|-------------------|
-| Denim       | `#0E7BBB` | 14, 123, 187    | 202, 86, 39    | 93, 34, 0, 27     |
-| Bittersweet | `#FB6962` | 251, 105, 98    | 3, 95, 68      | 0, 58, 61, 2      |
-| Pompadour   | `#6B003E` | 107, 0, 62      | 325, 100, 21   | 0, 100, 42, 58    |
-
----
-
-## Markdown Formatting Guide
-
-### Table of Contents
-
+- [Brand Colors](#brand-colors)
 - [Underline](#underline)
 - [Indent](#indent)
 - [Center](#center)
@@ -42,27 +23,35 @@ They aim to empower users with the knowledge and skills needed to navigate the w
 - [Automatic URL Linking](#automatic-url-linking)
 - [Disabling Automatic URL Linking](#disabling-automatic-url-linking)
 
-### Underline
+## Brand Colors
+
+| Color       | Hex       | RGB             | HSL            | CMYK              |
+|-------------|-----------|-----------------|----------------|-------------------|
+| Denim       | `#0E7BBB` | 14, 123, 187    | 202, 86, 39    | 93, 34, 0, 27     |
+| Bittersweet | `#FB6962` | 251, 105, 98    | 3, 95, 68      | 0, 58, 61, 2      |
+| Pompadour   | `#6B003E` | 107, 0, 62      | 325, 100, 21   | 0, 100, 42, 58    |
+
+## Underline
 
 This is an example of underlined text.
 <u>Underlined Text</u>
 
-### Indent
+## Indent
 
 This is an example of indented text.
 > Indented Text
 
-### Center
+## Center
 
 This is an example of centered text.
 <p align="center">Centered Text</p>
 
-### Color
+## Color
 
 This is an example of colored text.
 <span style="color:red">This text is red.</span>
 
-### Highlight
+## Highlight
 
 To highlight words, use two equal signs (`==`) before and after the words.
 
@@ -72,7 +61,7 @@ Alternatively, if your Markdown application supports HTML, you can use the `<mar
 
 I need to highlight these <mark>very important words</mark>.
 
-### Subscript
+## Subscript
 
 To create a subscript, use one tilde symbol (`~`) before and after the characters.
 
@@ -82,7 +71,7 @@ Alternatively, if your Markdown application supports HTML, you can use the `<sub
 
 H<sub>2</sub>O
 
-### Superscript
+## Superscript
 
 To create a superscript, use one caret symbol (`^`) before and after the characters.
 
@@ -92,13 +81,13 @@ Alternatively, if your Markdown application supports HTML, you can use the `<sup
 
 X<sup>2</sup>
 
-### Automatic URL Linking
+## Automatic URL Linking
 
 Many Markdown processors automatically turn URLs into links.
 
 http://www.example.com
 
-### Disabling Automatic URL Linking
+## Disabling Automatic URL Linking
 
 If you don’t want a URL to be automatically linked, you can remove the link by denoting the URL as code with backticks.
 
